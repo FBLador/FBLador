@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Flavius Beniamin Lador
+👋 Hi there, I’m Flavius!
+## Full-stack developer @ LifeCharger srl
 - 👀 Interested in AR/VR and Artificial Intelligence.
 - 🌱 Currently attending Computer Science at Uniersità degli studi di Milano Bicocca where
       I'm studying **Digital Image Processing**, **Android Development** and **Computer Graphics**
