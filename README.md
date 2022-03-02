@@ -4,7 +4,7 @@
 
 ## Full-stack developer @ LifeCharger srl
 - 👀 Interested in AR/VR and Artificial Intelligence.
-- 🌱 Currently attending Computer Science at Uniersità degli studi di Milano Bicocca where
+- 🌱 Currently attending Computer Science at Università degli studi di Milano Bicocca where
       I'm studying **Digital Image Processing**, **Android Development** and **Computer Graphics**
 
 <!---
