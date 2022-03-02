@@ -1,7 +1,5 @@
 👋 Hi there, I’m Flavius!
 
-**Currently focused on building my knowledge base**
-
 ## Full-stack developer @ LifeCharger srl
 - 👀 Interested in AR/VR and Artificial Intelligence.
 - 🌱 Currently attending Computer Science at Università degli studi di Milano Bicocca where
