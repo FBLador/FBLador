@@ -1,6 +1,6 @@
 👋 Hi there, I’m Flavius!
 
-## Full-stack developer @ LifeCharger srl
+## Full-stack developer @ Nordcom SPA
 - 👀 Interested in AR/VR and Artificial Intelligence.
 - 🌱 Currently attending Computer Science at Università degli studi di Milano Bicocca where
       I'm studying **Digital Image Processing**, **Android Development** and **Computer Graphics**
