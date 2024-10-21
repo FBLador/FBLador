@@ -1,6 +1,6 @@
 👋 Hi there, I’m Flavius!
 
-[sito personale](https://www.flaviusblador.com)
+[Personal website](https://www.flaviusblador.com)
 
 ## Android & XR developer @ Nordcom SPA
 - 👀 Interested in AR/VR and Artificial Intelligence.
