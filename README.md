@@ -1,5 +1,7 @@
 👋 Hi there, I’m Flavius!
 
+[sito personale](https://www.flaviusblador.com)
+
 ## Android & XR developer @ Nordcom SPA
 - 👀 Interested in AR/VR and Artificial Intelligence.
 - 🌱 Currently attending Computer Science at Università degli studi di Milano Bicocca where
