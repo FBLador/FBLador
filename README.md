@@ -2,10 +2,9 @@
 
 [Personal website](https://www.flaviusblador.com)
 
-## Android & XR developer @ Nordcom SPA
+## Freelancer and Indie Developer
+- 🔍 Specialized in Android and Computer Vision
 - 👀 Interested in AR/VR and Artificial Intelligence.
-- 🌱 Currently attending Computer Science at Università degli studi di Milano Bicocca where
-      I'm focusing on **Digital Image Processing**, **Android Development** and **Computer Graphics**
 
 <!---
 FBLador/FBLador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
