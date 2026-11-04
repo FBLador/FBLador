@@ -1,12 +1,11 @@
-👋 Hi there, I’m Flavius!
+# Hi, I'm Flavius 👋
 
-[Personal website](https://www.flaviusblador.com)
+Product engineer: I design and build frontend and UI/UX, with a mobile foundation (Kotlin, Swift).
+Currently at **ReBrayn**, an AI learning platform, and producing an indie game with a small team.
 
-## Freelancer and Indie Developer
-- 🔍 Specialized in Android and Computer Vision
-- 👀 Interested in AR/VR and Artificial Intelligence.
+**Awards** · Meta Horizon Creator Competition 2025 · PICO Dev Jam 2023 · Microsoft MR Dev Days 2022
+→ [Devpost](https://devpost.com/flaviusblador)
 
-<!---
-FBLador/FBLador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my client work is private. What you see here is personal projects, prototypes, and hackathons.
+
+🔗 [LinkedIn](https://linkedin.com/in/flavius-beniamin-lador)
